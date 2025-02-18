@@ -8,9 +8,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/AR_cube.unity
     guid: 09611d6af6d3add4398e7af6c3a29ad2
+  - enabled: 1
+    path: Assets/Scenes/AR_tracked-image.unity
+    guid: 9b5cd7baf02d58549901ec17a1761c17
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 9f1bc78da32d2094e96e34486ed87860,
       type: 2}
